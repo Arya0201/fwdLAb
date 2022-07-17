@@ -1,0 +1,26 @@
+.btn {
+    width: 120px;
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    margin: 30px auto;
+
+}
+.login {
+    background-color: #91c6f8;
+}
+.login:hover {
+    background-color: #64b1f8;
+}
+.logout{
+    width: auto;
+    height: 33px;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #91c6f8;
+    padding-right: 20px;
+    align-items: center;
+}
